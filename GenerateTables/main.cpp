@@ -10,7 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     
-    CubeDataStructure::Solver my_solver("/Users/ellis/Desktop/Code/Cube/CubeDataStructure/Tables");
+    CubeDataStructure::Solver my_solver("/Users/ellis/GitHub/CubeSolver/CubeDataStructure/Tables");
     
     my_solver.generate_tables();
     

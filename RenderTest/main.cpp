@@ -15,7 +15,7 @@ using namespace std;
 using namespace CubeDataStructure;
 
 Cube my_cube;
-Solver my_solver("/Users/ellis/Desktop/Code/Cube/CubeDataStructure/Tables");
+Solver my_solver("/Users/ellis/GitHub/CubeSolver/CubeDataStructure/Tables");
 
 float rot_x, rot_y;
 
